@@ -1,3 +1,14 @@
+ST10275475
+ST10296904
+ST10284789
+ST10391223
+
+The B Team (group 2) 
+Willander
+
+Youtube:
+GitHub:
+
 PocketSafe Android App
 
 Project Overview
